@@ -1,0 +1,5 @@
+APP_NAME: devopsdemo5
+MS_NAME: spring-boot-mongodb5
+BRANCH: master
+GIT_SOURCE_URL: https://github.com/himanshumps/spring-boot-mongodb5.git
+SONAR_HOST_URL: http://sonar-devopsdemo5-cicd.52.172.12.252.nip.io
